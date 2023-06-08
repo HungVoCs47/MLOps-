@@ -22,3 +22,10 @@ Set the scene for what we're trying to do through a customer-centric approach:
 * goal: main goal for the customer
 * pains: obstacles in the way of the customer achieving the goal
 * gains: what would make the job easier for the customer?
+
+Value proposition
+Propose the value we can create through a product-centric approach:
+
+* product: what needs to be build to help the customer reach their goal?
+* alleviates: how will the product reduce pains?
+* advantages: how will the product create gains?
