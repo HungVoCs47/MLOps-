@@ -34,3 +34,9 @@ Propose the value we can create through a product-centric approach:
 Solution
 
 Describe the solution required to meet our objectives, including it's core features, integration, alternatives, constraints and what's out-of-scope.
+
+* Core features
+* Integrations
+* Alternatives
+* Constraints
+* Out-of-scope
