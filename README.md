@@ -1,5 +1,6 @@
 # MLOps
-Product planning:
+
+## Product planning
 Product (What & Why) → Engineering (How) → Project (Who & When)
 ```bash
 📂 project/
@@ -12,3 +13,4 @@ Product (What & Why) → Engineering (How) → Project (Who & When)
 └── 📂 release-n
 ```
 
+## Product management
