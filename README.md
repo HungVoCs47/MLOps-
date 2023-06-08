@@ -15,6 +15,7 @@ Product (What & Why) → Engineering (How) → Project (Who & When)
 
 ## Product management
 Background
+
 Set the scene for what we're trying to do through a customer-centric approach:
 
 * customer: profile of the customer we want to address
