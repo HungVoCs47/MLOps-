@@ -40,7 +40,10 @@ Describe the solution required to meet our objectives, including it's core featu
 * Out-of-scope
 
 ## Engineering
-Data:\\
-Labeling:
+Data Labeling (or annotation) is the process of identifying the inputs and outputs that are worth modeling (not just what could be modeled).
+
+* use objective as a guide to determine the necessary signals.
+* explore creating new signals (via combining features, collecting new data, etc.).
+* iteratively add more features to justify complexity and effort.
 
 
