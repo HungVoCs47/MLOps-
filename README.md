@@ -1,6 +1,8 @@
 # MLOps
 Product planning:
 # Documentation
+
+```bash
 📂 project/
 ├── 📄 Overview
 ├── 📂 release-1
@@ -9,4 +11,5 @@ Product planning:
 | ├── 📄 project planning     [Project]
 ├── ...
 └── 📂 release-n
+```
 
