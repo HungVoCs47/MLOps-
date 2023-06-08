@@ -1,6 +1,5 @@
 # MLOps
 Product planning:
-# Documentation
 
 ```bash
 📂 project/
