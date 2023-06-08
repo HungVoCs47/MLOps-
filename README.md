@@ -40,11 +40,7 @@ Describe the solution required to meet our objectives, including it's core featu
 * Out-of-scope
 
 ## Engineering
-Data
-* Describe the training and production (batches/streams) sources of data.
-Labeling
-* Describe the labeling process and how we settled on the features and labels.
-Metric
-* One of the hardest challenges with evaluation is tying our core objectives, many of which may be qualitative, with quantitative metrics that our model can optimize on.
+Data:
+Labeling:
 
 
